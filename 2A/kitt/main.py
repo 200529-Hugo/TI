@@ -27,6 +27,10 @@ while True:
     leds(4, delay)
     leds(8, delay)
     leds(16, delay)
+    leds(8, delay)
+    leds(4, delay)
+    leds(2, delay)
+    leds(1, delay)
 
 # Binair van 0b10101011
 # 1 = 1

@@ -1,1 +1,1 @@
-https://github.com/200529-Hugo/TI
+https://github.com/200529-Hugo/TI/tree/main/2A

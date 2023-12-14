@@ -14,6 +14,8 @@
       <sourceFolder url="file://$MODULE_DIR$/1A/pulse" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/1A/tatatataa" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2A/pulse" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3A/color" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3A/red" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
